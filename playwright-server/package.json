@@ -1,0 +1,13 @@
+{
+  "name": "playwright-server",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./target/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "playwright": "^1.38.0"
+  }
+}

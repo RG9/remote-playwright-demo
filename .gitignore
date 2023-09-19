@@ -1,0 +1,4 @@
+.idea
+playwright-server/node_modules
+playwright-client
+target
